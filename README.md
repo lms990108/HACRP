@@ -91,7 +91,7 @@
 ### **1. 프로젝트 클론**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/lms990108/HACRP
 cd express-encryption
 ```
 
